@@ -1,0 +1,19 @@
+actual_specialty,predicted_specialty,model_score
+Surgery,Surgery,0.47232718661319517
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,0.5332729612284205
+Pain Management,Pain Management,0.4083071793117625
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,0.5502824781077641
+Radiology,Radiology,0.4687562039953162
+Pain Management,Pain Management,0.49860624680758886
+Pain Management,Pain Management,0.3792903375393315
+Surgery,Surgery,0.540050475249156
+Pain Management,Pain Management,0.5760006329422557
+Pain Management,Pain Management,0.30147889503938613
+Pain Management,Pain Management,0.3950997973343921
+Surgery,Surgery,0.48292880647893965
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,0.5460234329989296
+Surgery,Surgery,0.5652500375644857
+Surgery,Surgery,0.49649368583436965
+Surgery,Surgery,0.5210861540519515
+Surgery,Surgery,0.5519916724282612
+Radiology,Radiology,0.4374564740516205

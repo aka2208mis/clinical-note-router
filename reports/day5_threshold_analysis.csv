@@ -1,0 +1,8 @@
+threshold,accepted_notes,accepted_accuracy,coverage_percent,sent_for_review
+0.3,18,1.0,100.0,0
+0.4,15,1.0,83.3,3
+0.5,8,1.0,44.4,10
+0.6,0,,0.0,18
+0.7,0,,0.0,18
+0.8,0,,0.0,18
+0.9,0,,0.0,18
